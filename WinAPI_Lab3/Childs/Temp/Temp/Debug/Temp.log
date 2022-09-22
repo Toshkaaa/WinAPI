@@ -1,0 +1,3 @@
+﻿  Temp.cpp
+D:\source\repos\Temp\Temp\Temp.cpp(103): warning C4715: WndProc: значение возвращается не при всех путях выполнения
+  Temp.vcxproj -> D:\source\repos\Temp\Debug\Temp.exe

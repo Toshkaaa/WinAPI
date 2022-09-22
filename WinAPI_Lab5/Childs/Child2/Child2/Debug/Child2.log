@@ -1,0 +1,4 @@
+﻿  Child2.cpp
+D:\source\repos\WinAPI_Lab5\Childs\Child2\Child2\Child2.cpp(208,27): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\source\repos\WinAPI_Lab5\Childs\Child2\Child2\Child2.cpp(100): warning C4715: Administrator: значение возвращается не при всех путях выполнения
+  Child2.vcxproj -> D:\source\repos\WinAPI_Lab5\Childs\Child2\Debug\Child2.exe

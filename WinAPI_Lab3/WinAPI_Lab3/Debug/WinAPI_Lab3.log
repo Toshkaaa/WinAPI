@@ -1,0 +1,3 @@
+﻿  WinAPI_Lab3.cpp
+D:\source\repos\WinAPI_Lab3\WinAPI_Lab3\WinAPI_Lab3.cpp(23,6): warning C4101: tmp: неиспользованная локальная переменная
+  WinAPI_Lab3.vcxproj -> D:\source\repos\WinAPI_Lab3\Debug\WinAPI_Lab3.exe

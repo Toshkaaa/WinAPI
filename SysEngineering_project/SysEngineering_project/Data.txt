@@ -1,0 +1,4 @@
+Name: RadioModule RTP-507
+Version: V 2.3
+Name: DualShock
+Version: v. 725

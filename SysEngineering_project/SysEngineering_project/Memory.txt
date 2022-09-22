@@ -1,0 +1,4 @@
+FIFA==D://tohas//Pictures//1.bmp
+GTA==D://tohas//Pictures//2.bmp
+CS-GO==D://tohas//Pictures//3.bmp
+NFS==D://tohas//Pictures//4.bmp

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: ссылка на неразрешенный внешний символ _WinMain@16 в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+D:\source\repos\WinAPI_Lab5\Debug\WinAPI_Lab5.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

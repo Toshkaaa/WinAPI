@@ -1,0 +1,7 @@
+﻿  WinAPI2_Lab2.cpp
+D:\source\repos\WinAPI2_Lab2\WinAPI2_Lab2\WinAPI2_Lab2.cpp(32,8): warning C4101: RefDomain: неиспользованная локальная переменная
+D:\source\repos\WinAPI2_Lab2\WinAPI2_Lab2\WinAPI2_Lab2.cpp(31,18): warning C4101: pGroupSid: неиспользованная локальная переменная
+D:\source\repos\WinAPI2_Lab2\WinAPI2_Lab2\WinAPI2_Lab2.cpp(31,7): warning C4101: pOwnerSid: неиспользованная локальная переменная
+D:\source\repos\WinAPI2_Lab2\WinAPI2_Lab2\WinAPI2_Lab2.cpp(23,23): warning C4101: OwnerDefF: неиспользованная локальная переменная
+D:\source\repos\WinAPI2_Lab2\WinAPI2_Lab2\WinAPI2_Lab2.cpp(23,34): warning C4101: GroupDefF: неиспользованная локальная переменная
+D:\source\repos\WinAPI2_Lab2\WinAPI2_Lab2\WinAPI2_Lab2.cpp(44): error C4700: использована неинициализированная локальная переменная "pAce"

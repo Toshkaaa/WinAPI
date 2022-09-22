@@ -1,0 +1,8 @@
+﻿  PS.cpp
+D:\source\repos\SysEngineering_project\SysEngineering_project\PS.cpp(164,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\source\repos\SysEngineering_project\SysEngineering_project\PS.cpp(427,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\source\repos\SysEngineering_project\SysEngineering_project\PS.cpp(548,7): warning C4101: rect: неиспользованная локальная переменная
+D:\source\repos\SysEngineering_project\SysEngineering_project\PS.cpp(518): warning C4715: BIOS::check_device: значение возвращается не при всех путях выполнения
+D:\source\repos\SysEngineering_project\SysEngineering_project\PS.cpp(456): warning C4715: RadioModule::Internet::ping_server: значение возвращается не при всех путях выполнения
+D:\source\repos\SysEngineering_project\SysEngineering_project\PS.cpp(244): warning C4715: Memory::get_data: значение возвращается не при всех путях выполнения
+  SysEngineering_project.vcxproj -> D:\source\repos\SysEngineering_project\Debug\SysEngineering_project.exe

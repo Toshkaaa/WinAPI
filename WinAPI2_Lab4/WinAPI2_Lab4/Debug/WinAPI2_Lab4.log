@@ -1,0 +1,5 @@
+﻿  WinAPI2_Lab4.cpp
+D:\source\repos\WinAPI2_Lab4\WinAPI2_Lab4\WinAPI2_Lab4.cpp(14,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\WinAPI2_Lab4\WinAPI2_Lab4\WinAPI2_Lab4.cpp(28,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\WinAPI2_Lab4\WinAPI2_Lab4\WinAPI2_Lab4.cpp(109,36): warning C4018: >=: несоответствие типов со знаком и без знака
+  WinAPI2_Lab4.vcxproj -> D:\source\repos\WinAPI2_Lab4\Debug\WinAPI2_Lab4.exe

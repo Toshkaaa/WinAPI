@@ -1,0 +1,7 @@
+﻿  Child2.cpp
+D:\source\repos\WinAPI_Lab4\Childs\Child2\Child2\Child2.cpp(39,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\WinAPI_Lab4\Childs\Child2\Child2\Child2.cpp(109,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\WinAPI_Lab4\Childs\Child2\Child2\Child2.cpp(114,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\WinAPI_Lab4\Childs\Child2\Child2\Child2.cpp(118,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\WinAPI_Lab4\Childs\Child2\Child2\Child2.cpp(95): warning C4715: ThreadFun1: значение возвращается не при всех путях выполнения
+  Child2.vcxproj -> D:\source\repos\WinAPI_Lab4\Childs\Child2\Debug\Child2.exe
